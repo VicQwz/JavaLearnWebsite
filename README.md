@@ -1,4 +1,4 @@
-# Java工作常用网站链接汇总
+# Java工作学习网站链接汇总
 ## 学习
 ### Java
 - [java8 Lambda Stream](https://blog.csdn.net/fzy629442466/article/details/84629422)
